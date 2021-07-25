@@ -1,0 +1,12 @@
+{
+  "animation": height:
+  texture: color.png
+  scale: 0.2
+normal:
+  strength: 1
+smooth:
+  value: 0.4
+f0:
+  value: 0.035
+
+}
